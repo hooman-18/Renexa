@@ -1,0 +1,6 @@
+{
+  "name": "ReNexa — B2B Industrial Material Exchange",
+  "description": "B2B circular economy marketplace connecting industrial material suppliers and manufacturing buyers to transform usable scrap and leftover materials into raw materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
